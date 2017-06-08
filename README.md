@@ -4,16 +4,22 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+June 9, 2017
 
 ## Student Name:  
-(First and Last Name)
+Linda Rowe
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment is designed to introduce the concepts involved
+in working with local and remote repositories under the greater context
+of version controlling. For the purposes of Lesson 3,
+the student will utilize Cloud9 IDE and Github, respectively.
+
+## View Project:
+https://roweroo.github.io/lesson_3VersionControl/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Various methodologies in using Cloud9 IDE functions.
+2. Various methodologies in using Github functions.
+3. How to use Markup within Github.
 
